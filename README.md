@@ -16,3 +16,13 @@ C - Down
 V - Up
 
 Press ``Shift`` + ``Key`` for reverse
+
+## Console Functions
+
+For debugging purposes
+
+`play()` - moves the camera indefinetly
+
+`stop()` - stops `play()`
+
+`shuffle(n)` - shuffles the cube randomly n times
