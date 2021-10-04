@@ -1,5 +1,5 @@
 # Rubiks-Simulator
-A Rubiks Cube Simulator rend
+A Rubiks Cube Simulator rendered using THREE.js
 
 ## Controls / Keys
 
