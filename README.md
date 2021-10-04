@@ -21,7 +21,7 @@ Press ``Shift`` + ``Key`` for reverse
 
 For debugging purposes
 
-`play()` - moves the camera indefinetly
+`play()` - moves the camera indefinitely
 
 `stop()` - stops `play()`
 
