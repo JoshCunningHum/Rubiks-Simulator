@@ -11,17 +11,21 @@ A project that is supposed to be used for a math activity, but ended up being un
 
 ## Controls / Keys
 
-E - Left
+``Mouse Drag`` Oribts the camera on the cube
 
-R - Right
+``Shift`` + ``Mouse Drag`` Pans the camera
 
-D - Back
+``E`` - Left
 
-F - Front
+``R`` - Right
 
-C - Down
+``D`` - Back
 
-V - Up
+``F`` - Front
+
+``C`` - Down
+
+``V`` - Up
 
 Press ``Shift`` + ``Key`` for reverse
 
