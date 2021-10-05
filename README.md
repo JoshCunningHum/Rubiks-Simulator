@@ -1,5 +1,13 @@
 # Rubiks-Simulator
+
 A Rubiks Cube Simulator rendered using THREE.js
+
+A project that is supposed to be used for a math activity, but ended up being unused.
+
+## Future Improvements
+
+3D Outline
+Solver Algorithm
 
 ## Controls / Keys
 
