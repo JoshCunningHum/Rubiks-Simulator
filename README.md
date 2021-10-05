@@ -6,8 +6,8 @@ A project that is supposed to be used for a math activity, but ended up being un
 
 ## Future Improvements
 
-3D Outline
-Solver Algorithm
+* 3D Outline
+* Solver Algorithm
 
 ## Controls / Keys
 
